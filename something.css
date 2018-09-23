@@ -7,24 +7,28 @@ body {
 
 #content{
     margin: auto;
-    width: 600px;
+    width: 560px;
     background-color: #EEEEEE;
-    border-left: 80px;
-    border-right: 80px;
+    border-left: 100px;
+    border-right: 100px;
     border-color: orange;
     border-style: solid;
+    padding-left: 40px;
+    padding-right: 40px;
     padding-top:20px;
     padding-bottom: 900px;
     margin-top:0px;
     text-align: center;
 }
 
-bio {
+#bio {
+    padding-left: 40px;
+    padding-right: 40px;
     text-align: left;
+    text-indent: 50px;
     font-family: 'Courier New';
 }
 
 h1 {
     font-weight: bold;
-    
 }
