@@ -1,1 +1,1 @@
-# acamaeda.github.io
+I get really stuck on things a lot, so I decided to just not care and do a bunch of weird dumb stuff that I can change if I actually want to use this for something. The actual technical stuff wasn't hard at all, though.

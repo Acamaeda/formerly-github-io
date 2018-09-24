@@ -21,7 +21,7 @@ body {
     text-align: center;
 }
 
-#bio {
+.writing {
     padding-left: 40px;
     padding-right: 40px;
     text-align: left;
@@ -31,4 +31,8 @@ body {
 
 h1 {
     font-weight: bold;
+}
+
+#stupid {
+    color: white;
 }
